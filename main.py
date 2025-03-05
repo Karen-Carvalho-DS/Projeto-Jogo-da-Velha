@@ -102,3 +102,5 @@ b_jogar.place(x=85, y=210)
 
 janela.mainloop()
 
+#Teste Commit
+
